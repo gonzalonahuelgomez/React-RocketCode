@@ -1,0 +1,16 @@
+.homepage_button{
+    color: #fff;
+    background-color: #00E6C9;
+    width: 220px;
+    text-align: center;
+    padding: 10px 14px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+}
+
+.homepage_button:hover{
+    background-color: #02b69e;
+}
